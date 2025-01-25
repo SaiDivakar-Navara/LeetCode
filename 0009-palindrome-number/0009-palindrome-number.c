@@ -1,3 +1,4 @@
+
 bool isPalindrome(int x){
 {
   int t=x;
